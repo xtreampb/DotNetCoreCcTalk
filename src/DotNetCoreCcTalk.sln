@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreCcTalk", "DotNetCoreCcTalk\DotNetCoreCcTalk.csproj", "{C424A7AE-966E-4AC5-9DAB-3466ADE0D56D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCoreCcTalk", "DotNetCoreCcTalk\DotNetCoreCcTalk.csproj", "{C424A7AE-966E-4AC5-9DAB-3466ADE0D56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{B10F535D-C222-4B1B-AB24-0B9E9DF5E3A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C424A7AE-966E-4AC5-9DAB-3466ADE0D56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C424A7AE-966E-4AC5-9DAB-3466ADE0D56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C424A7AE-966E-4AC5-9DAB-3466ADE0D56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10F535D-C222-4B1B-AB24-0B9E9DF5E3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10F535D-C222-4B1B-AB24-0B9E9DF5E3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10F535D-C222-4B1B-AB24-0B9E9DF5E3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10F535D-C222-4B1B-AB24-0B9E9DF5E3A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
